@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-04-01T18:33:11.169160+00:00",
-  "finished_at": "2026-04-01T18:33:45.438437+00:00",
-  "duration_seconds": 34.269,
+  "started_at": "2026-04-02T09:43:13.145964+00:00",
+  "finished_at": "2026-04-02T09:43:30.912470+00:00",
+  "duration_seconds": 17.767,
   "source": "example_media/lime_1.mp4",
   "line_config_path": "output/count_line.json",
   "line": {
@@ -14,11 +14,11 @@
       1172
     ]
   },
-  "frames_processed": 1039,
+  "frames_processed": 534,
   "cooldown_frames": 12,
   "counts": {
     "in": 2,
-    "out": 37,
-    "total": 39
+    "out": 19,
+    "total": 21
   }
 }

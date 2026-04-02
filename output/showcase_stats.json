@@ -1,25 +1,24 @@
 {
-  "started_at": "2026-04-01T12:39:18.861861+00:00",
-  "finished_at": "2026-04-01T12:39:53.090551+00:00",
-  "duration_seconds": 34.229,
+  "started_at": "2026-04-01T18:33:11.169160+00:00",
+  "finished_at": "2026-04-01T18:33:45.438437+00:00",
+  "duration_seconds": 34.269,
   "source": "example_media/lime_1.mp4",
   "line_config_path": "output/count_line.json",
   "line": {
     "start": [
-      13,
-      1267
+      12,
+      1108
     ],
     "end": [
-      1072,
-      1301
+      1065,
+      1172
     ]
   },
   "frames_processed": 1039,
   "cooldown_frames": 12,
   "counts": {
-    "in": 0,
-    "out": 33,
-    "total": 33
-  },
-  "output_video_path": "output/showcase_counted.mp4"
+    "in": 2,
+    "out": 37,
+    "total": 39
+  }
 }
